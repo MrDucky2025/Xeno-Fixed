@@ -17,3 +17,5 @@ So yeah, if you're going to use this source, please leave a credit.
 > :warning:Credits to Rizve For the Orginal Source
 
 > :warning: Also Thanks to Proohio, ChimeraLle and PSWalloz For Helping Me
+
+- Join Our Discord Server https://discord.gg/EqaRm2KqUk
